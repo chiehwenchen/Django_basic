@@ -9,4 +9,7 @@
        Username
        Email
        Password
-### 5. 
+### 5. python manage.py runserver
+       127.0.0.1:8000 \(check your server work or not\)
+       if you want to stop server, go to cmd and pass Ctrl+C
+### 6. 
